@@ -2,7 +2,7 @@
 #### I am a web developer who is still in the process of learning
 ![I am a beginner developer who is still in the process of learning](https://img.freepik.com/free-vector/tiny-people-gamers-playing-online-video-game-huge-joystick-clock_335657-2448.jpg?w=1380)
 
-I created this project while learning React. This is a restaurant website.
+I created this project while learning React. This app will help you find a recipe for every taste, created on the basic of API.
 
 Skills: REACT / Redux / JS / Bootstrap-5 / HTML / CSS
 
