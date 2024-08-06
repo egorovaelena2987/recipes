@@ -37,10 +37,8 @@ video {
  h1, p, li {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  font-variation-settings: "wdth" 100;
  }
  .icon {
   width: 30px;
